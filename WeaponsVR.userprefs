@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HandController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SelectMode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformPlace.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Examples\Resources\Scripts\VRTK_ControllerPointerEvents_ListenerExample.cs" Line="42" Column="49" />
+      <File FileName="Assets\Scripts\HandController.cs" Line="120" Column="78" />
+      <File FileName="Assets\Scripts\BulletHit.cs" Line="18" Column="1" />
+      <File FileName="Assets\Scripts\AnimationControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ReloadCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GunStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControllerAdditional.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TargetHit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResetObject.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
